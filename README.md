@@ -3,6 +3,7 @@ The CSC543 repository contains files for project "Map-Matching Algorithm for Tra
 The following files are included in the project:
 
 1."Road Network" folder - It Contains 4 files.
+
     1. WA_Nodes.txt - It contains the coordinates (lat-long format) of the points (GPS positions) that lie on the road network of the New                         York city. Each node has a unique id.
     
     2. WA_Edges.txt - It contains the edges which form the road network. Each edge is represented by a unique id, starting node, ending                           node and cost. The cost represents time.
