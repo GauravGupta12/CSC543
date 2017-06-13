@@ -24,3 +24,5 @@ The following files are included in the project:
                                There are 33,326 edges in the Edges table.
                                There 29,626 entries in the Edgegeom table. (more than 3000 edges have incorrect geometry, end points are                                  missing for such edges).
 
+5. "Experiments Results" folder - This folder contains the screenshots of the output of algorithm in sequential order from R1 to R4 (R1,                                     R2, R3 and R4). 
+                                  
