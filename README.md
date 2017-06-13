@@ -22,5 +22,5 @@ The following files are included in the project:
 4. Uploading_Road_Network.py - This file contains the scripts for loading road network for New York city into PostgreSQL database. The data                                is inserted into three different tables, one each for nodes, edges and Edgegeom.
                                There are 40,352 nodes in the Nodes table.
                                There are 33,326 edges in the Edges table.
-                               There 29,626 entries in the Edgegeom table. (more than 3000 edges have incorrect geometry, end points are                                  missing for such edges)
+                               There 29,626 entries in the Edgegeom table. (more than 3000 edges have incorrect geometry, end points are                                  missing for such edges).
 
